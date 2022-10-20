@@ -1,4 +1,4 @@
-# oplab-shop-magaz-client
+# oplab-shop
 
 Гуи для магазина лаборатории. Nuxt
 
