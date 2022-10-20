@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/77", {data:[{post:{Id:77,Code:"1525",Name:"СА-15-3 (карцинома молочной железы)",FullName:"Исследование уровня углеводного антигена CA-15-3 в крови",Folder:"Онкомаркеры",Tests:["0568adad-94ae-11de-9c53-000e0c3eff07"],Cost:450,FolderId:9,Organ:"Орган1",OrganId:4}}],fetch:{},mutations:[]});

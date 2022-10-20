@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/49", (function(a){return {data:[{post:{Id:49,Code:"1190",Name:a,FullName:a,Folder:"Гормоны",Tests:["0568ade9-94ae-11de-9c53-000e0c3eff07"],Cost:300,FolderId:6,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]}}("Пепсиноген I")));

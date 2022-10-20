@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/42", {data:[{post:{Id:42,Code:"5080",Name:"ПЦР Туберкулез кровь",FullName:"Молекулярно-биологическое исследование крови на Туберкулез",Folder:"ЛСД",Tests:["e877aacc-94a5-11e4-b32f-14dae9ee2078"],Cost:300,FolderId:1,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

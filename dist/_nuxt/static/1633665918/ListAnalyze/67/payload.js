@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/67", (function(a){return {data:[{post:{Id:67,Code:"3034",Name:a,FullName:a,Folder:"Инфекции",Tests:["0568ae12-94ae-11de-9c53-000e0c3eff07"],Cost:400,FolderId:11,Organ:"Орган2",OrganId:5}}],fetch:{},mutations:[]}}("Лямблиоз IgA,M,G- суммарные АТ")));

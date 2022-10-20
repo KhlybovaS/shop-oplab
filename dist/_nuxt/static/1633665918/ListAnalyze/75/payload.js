@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/75", {data:[{post:{Id:75,Code:"1523",Name:"Раковоэмбриональный антиген",FullName:"Исследование уровня ракового эмбрионального антигена в крови",Folder:"Онкомаркеры",Tests:["0568ad98-94ae-11de-9c53-000e0c3eff07"],Cost:450,FolderId:9,Organ:"Орган1",OrganId:4}}],fetch:{},mutations:[]});

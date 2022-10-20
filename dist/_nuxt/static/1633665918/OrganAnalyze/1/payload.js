@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/OrganAnalyze/1", (function(a,b){return {data:[{post:{Id:a,Code:"1404",Name:b,FullName:b,Folder:"ЛСД",isCovid:false,Cost:100,FolderId:a,Organ:"Кишечник",OrganId:a}}],fetch:{},mutations:[]}}(1,"Кал на  яйца гельминтов и простейшие")));

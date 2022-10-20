@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/78", {data:[{post:{Id:78,Code:"1527",Name:"СА-19-9",FullName:"Исследование уровня углеводного антигена CA-19-9 в крови",Folder:"Онкомаркеры",Tests:["0568adab-94ae-11de-9c53-000e0c3eff07"],Cost:450,FolderId:9,Organ:"Орган1",OrganId:4}}],fetch:{},mutations:[]});

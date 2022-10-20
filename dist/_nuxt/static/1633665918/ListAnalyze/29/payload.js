@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/29", (function(a){return {data:[{post:{Id:29,Code:"4020",Name:a,FullName:a,Folder:"ЛСД",Tests:["4df51e91-cefb-11e5-8ed0-74d02b94c743"],Cost:200,FolderId:1,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]}}("Грипп\u002Fпарагрипп-РТГА")));

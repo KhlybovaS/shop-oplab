@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/27", (function(a){return {data:[{post:{Id:27,Code:"3103",Name:"Гепатит В антиген s (НbsAg) количественно",FullName:"Определение количества антигена к вирусу гепатита В (НbsAg Hepatitis B virus) в крови",Folder:"Гепатиты и ВИЧ",Tests:["fb8c0288-9e4a-11e5-8ed0-74d02b94c743"],Cost:200,FolderId:a,Organ:"Орган",OrganId:a}}],fetch:{},mutations:[]}}(2)));

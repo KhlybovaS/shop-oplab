@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/36", {data:[{post:{Id:36,Code:"5068",Name:"ПЦР РНК РС-вирус",FullName:"Молекулярно-биологическое исследование лаважной жидкости на РНК РС-вирус",Folder:"ЛСД",Tests:["31595af6-d924-11e4-8ff2-74d02b94c743"],Cost:250,FolderId:1,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

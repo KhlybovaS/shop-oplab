@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/TypeAnalyze/5", {data:[{post:{Id:26,Code:"11351",Name:"Белок в суточной моче",FullName:"Определение белка в моче",Folder:"Моча",Tests:["c3055df7-39ce-11e2-8dc6-14dae9ee2078","0568ad25-94ae-11de-9c53-000e0c3eff07"],Cost:200,FolderId:5,Organ:"Мочеполовая система",OrganId:3,IsPopular:true}}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/74", {data:[{post:{Id:74,Code:"1521",Name:"ПСА",FullName:"Исследование уровня простатспецифического антигена",Folder:"Онкомаркеры",Tests:["0568ad93-94ae-11de-9c53-000e0c3eff07"],Cost:450,FolderId:9,Organ:"Орган1",OrganId:4}}],fetch:{},mutations:[]});

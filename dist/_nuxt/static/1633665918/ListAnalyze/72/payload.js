@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/72", {data:[{post:{Id:72,Code:"1302",Name:"Проба Реберга (моча)",FullName:"Исследование уровня креатинина в моче",Folder:"Моча",Tests:["0568ad25-94ae-11de-9c53-000e0c3eff07","0568ad39-94ae-11de-9c53-000e0c3eff07","0568ad18-94ae-11de-9c53-000e0c3eff07"],Cost:450,FolderId:5,Organ:"Мочеполовая система",OrganId:3}}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/TypeAnalyze/4", (function(a){return {data:[{post:{Id:22,Code:"65",Name:a,FullName:a,Folder:"Цитология",Tests:["5235b563-3792-11e2-8dc6-14dae9ee2078"],Cost:200,FolderId:4,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]}}("Микроскопия осадка синовиальной жидкости")));

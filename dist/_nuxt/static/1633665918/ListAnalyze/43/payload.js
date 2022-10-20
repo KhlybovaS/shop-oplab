@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/43", (function(a,b){return {data:[{post:{Id:43,Code:"3073",Name:a,FullName:a,Folder:"Гепатиты и ВИЧ",Tests:["f29a871f-12c8-11e7-a5b7-74d02b94c743"],Cost:300,FolderId:b,Organ:"Орган",OrganId:b}}],fetch:{},mutations:[]}}("Гепатит С  (суммарные АТ+подтв.)",2)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/73", {data:[{post:{Id:73,Code:"1522",Name:"АФП",FullName:"Исследование уровня альфа- фетопротеина в сыворотке крови",Folder:"Онкомаркеры",Tests:["0568acfe-94ae-11de-9c53-000e0c3eff07"],Cost:450,FolderId:9,Organ:"Орган1",OrganId:4}}],fetch:{},mutations:[]});

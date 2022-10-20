@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/30", {data:[{post:{Id:30,Code:"1171",Name:"Глюкозотолерантный тест",FullName:"Исследование уровня глюкозы в крови",Folder:"Биохимия",Tests:["d2748dad-1d89-11e2-9b92-14dae9ee2078"],Cost:250,FolderId:7,Organ:"Орган",OrganId:2,IsPopular:true}}],fetch:{},mutations:[]});

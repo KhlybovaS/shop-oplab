@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/62", (function(a){return {data:[{post:{Id:62,Code:"1158",Name:a,FullName:a,Folder:"Иммунология",Tests:["0568ad4d-94ae-11de-9c53-000e0c3eff07"],Cost:400,FolderId:8,Organ:"Орган3",OrganId:6}}],fetch:{},mutations:[]}}("Ig-G (иммуноглобулин G)")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/19", {data:[{post:{Id:19,Code:"90361",Name:"ПЦР ИППП скрининг-уретра",FullName:"Определение ДНК возбудителей инфекции передаваемые половым путем (Neisseria gonorrhoeae, Trichomonas",Folder:"ЛСД",Cost:150,FolderId:1,Organ:"Мочеполовая система",OrganId:3}}],fetch:{},mutations:[]});

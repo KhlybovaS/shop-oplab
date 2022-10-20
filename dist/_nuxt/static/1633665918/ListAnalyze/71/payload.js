@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/71", {data:[{post:{Id:71,Code:"1300",Name:"Общий анализ мочи",FullName:"Общий (клинический) анализ мочи",Folder:"Моча",Cost:450,FolderId:5,Organ:"Мочеполовая система",OrganId:3,IsPopular:true}}],fetch:{},mutations:[]});

@@ -1,0 +1,121 @@
+export default {
+    namespaced: true,
+    state: {
+        items: [
+            {
+                id: 1,
+                title: 'Комплекс анализов №1',
+                label: 'До 2 рабочих дней',
+                list: [{
+                    id: 1,
+                    price: 799,
+                    title: 'Анализ №1',
+                    label: 'Результат через 3 часа',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                    isPopular: true,
+                }, {
+                    id: 3,
+                    price: 1499,
+                    title: 'Анализ №3',
+                    label: 'Результат через 1 день',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                    isPopular: true,
+                }],
+                description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                preparation: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            },
+            {
+                id: 2,
+                title: 'Комплекс анализов №2',
+                label: 'До 3 рабочих дней',
+                list: [{
+                    id: 2,
+                    price: 399,
+                    title: 'Анализ №2',
+                    label: 'Результат через 2 часа',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                }, {
+                    id: 4,
+                    price: 1099,
+                    title: 'Анализ №4',
+                    label: 'В течение 3 дней',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                }, {
+                    id: 5,
+                    price: 299,
+                    title: 'Анализ №5',
+                    label: 'Результат через 12 часов',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                }],
+                description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                preparation: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            },
+            {
+                id: 3,
+                title: 'Комплекс анализов №3',
+                label: 'До 4 рабочих дней',
+                list: [{
+                    id: 5,
+                    price: 299,
+                    title: 'Анализ №5',
+                    label: 'Результат через 12 часов',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                }, {
+                    id: 7,
+                    price: 899,
+                    title: 'Анализ №7',
+                    label: 'Результат через 1 час',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                    isPopular: true,
+                }],
+                description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                preparation: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            },
+            {
+                id: 4,
+                title: 'Комплекс анализов №4',
+                label: 'До 5 рабочих дней',
+                list: [{
+                    id: 2,
+                    price: 399,
+                    title: 'Анализ №2',
+                    label: 'Результат через 2 часа',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                }, {
+                    id: 3,
+                    price: 1499,
+                    title: 'Анализ №3',
+                    label: 'Результат через 1 день',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                    isPopular: true,
+                }, {
+                    id: 4,
+                    price: 1099,
+                    title: 'Анализ №4',
+                    label: 'В течение 3 дней',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                }, {
+                    id: 5,
+                    price: 299,
+                    title: 'Анализ №5',
+                    label: 'Результат через 12 часов',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                }, {
+                    id: 6,
+                    price: 549,
+                    title: 'Анализ №6',
+                    label: 'Результат сразу',
+                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                    isPopular: true,
+                }],
+                description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                preparation: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+            },
+        ],
+    },
+    getters: {
+        ITEMS (state) {
+            return state.items;
+        },
+    },
+};

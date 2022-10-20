@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/76", {data:[{post:{Id:76,Code:"1526",Name:"СА-125",FullName:"Исследование уровня углеводного антигена CA-125 в крови",Folder:"Онкомаркеры",Tests:["0568adac-94ae-11de-9c53-000e0c3eff07"],Cost:450,FolderId:9,Organ:"Орган1",OrganId:4}}],fetch:{},mutations:[]});

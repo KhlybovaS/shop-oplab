@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/13", (function(a){return {data:[{post:{Id:13,Code:"4012",Name:"Сальмонеллы- бактериология",FullName:"Микробиологическое исследование фекалий на микроорганизмы рода сальмонелла Salmonella spp.",Folder:"ЛСД",isCovid:false,Tests:["343616ec-709e-11e8-854c-1831bf2aea87"],Cost:150,FolderId:a,Organ:"Кишечник",OrganId:a}}],fetch:{},mutations:[]}}(1)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/35", (function(a){return {data:[{post:{Id:35,Code:"4013",Name:"Shigella spp - бактериология",FullName:"Микробиологическое исследование фекалий на возбудителя дизентирии Shigella spp.",Folder:"ЛСД",Tests:["9766a3ee-6527-11ea-9c82-1831bf2aea87"],Cost:250,FolderId:a,Organ:"Кишечник",OrganId:a}}],fetch:{},mutations:[]}}(1)));

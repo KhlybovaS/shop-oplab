@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/TypeAnalyze/10", {data:[{post:{Id:52,Code:"1004",Name:"Антитромбин - III",FullName:"Исследование уровня антитромбина Ш в крови",Folder:"Гемостаз",Tests:["0568ad47-94ae-11de-9c53-000e0c3eff07"],Cost:350,FolderId:10,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

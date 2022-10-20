@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/TypeAnalyze/8", (function(a){return {data:[{post:{Id:47,Code:"1560",Name:a,FullName:a,Folder:"Иммунология",Cost:300,FolderId:8,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]}}("Аллергопанель2")));

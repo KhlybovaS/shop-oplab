@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/OrganAnalyzes", {data:[{}],fetch:{},mutations:[]});

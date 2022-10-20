@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/60", {data:[{post:{Id:60,Code:"1547",Name:"Ig E",FullName:"Исследование уровня сывороточного иммуноглобулина E в крови (Ig E)",Folder:"Иммунология",Tests:["0568ade6-94ae-11de-9c53-000e0c3eff07"],Cost:350,FolderId:8,Organ:"Орган3",OrganId:6}}],fetch:{},mutations:[]});

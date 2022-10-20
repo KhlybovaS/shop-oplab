@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/9", (function(a){return {data:[{post:{Id:9,Code:"3095",Name:a,FullName:a,Folder:"ЛСД",isCovid:false,Tests:["4756c09d-6b23-11e5-82c6-74d02b94c743"],Cost:100,FolderId:1,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]}}("Индекс авидности IgG к токсоплазмозу")));

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "About",
+    "path": "/About",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/About.vue",
+    "chunkName": "pages/About",
+    "_name": "_7e167009"
+  },
+  {
+    "name": "Complexes",
+    "path": "/Complexes",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/Complexes.vue",
+    "chunkName": "pages/Complexes",
+    "_name": "_036fa14c"
+  },
+  {
+    "name": "Contacts",
+    "path": "/Contacts",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/Contacts.vue",
+    "chunkName": "pages/Contacts",
+    "_name": "_45e0fe87"
+  },
+  {
+    "name": "ListAnalyzes",
+    "path": "/ListAnalyzes",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/ListAnalyzes.vue",
+    "chunkName": "pages/ListAnalyzes",
+    "_name": "_05448ace"
+  },
+  {
+    "name": "OrganAnalyzes",
+    "path": "/OrganAnalyzes",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/OrganAnalyzes.vue",
+    "chunkName": "pages/OrganAnalyzes",
+    "_name": "_e967a658"
+  },
+  {
+    "name": "PopularAnalyzes",
+    "path": "/PopularAnalyzes",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/PopularAnalyzes.vue",
+    "chunkName": "pages/PopularAnalyzes",
+    "_name": "_3ebd189c"
+  },
+  {
+    "name": "ShoppingCart",
+    "path": "/ShoppingCart",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/ShoppingCart.vue",
+    "chunkName": "pages/ShoppingCart",
+    "_name": "_da6f2b48"
+  },
+  {
+    "name": "TypeAnalyzes",
+    "path": "/TypeAnalyzes",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/TypeAnalyzes.vue",
+    "chunkName": "pages/TypeAnalyzes",
+    "_name": "_085c8f35"
+  },
+  {
+    "name": "Comlpexes-id",
+    "path": "/Comlpexes/:id",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/Comlpexes/_id/index.vue",
+    "chunkName": "pages/Comlpexes/_id/index",
+    "_name": "_4469c760"
+  },
+  {
+    "name": "ListAnalyze-id",
+    "path": "/ListAnalyze/:id",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/ListAnalyze/_id/index.vue",
+    "chunkName": "pages/ListAnalyze/_id/index",
+    "_name": "_7ec65990"
+  },
+  {
+    "name": "OrganAnalyze-id",
+    "path": "/OrganAnalyze/:id",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/OrganAnalyze/_id/index.vue",
+    "chunkName": "pages/OrganAnalyze/_id/index",
+    "_name": "_00889946"
+  },
+  {
+    "name": "TypeAnalyze-id",
+    "path": "/TypeAnalyze/:id",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/TypeAnalyze/_id/index.vue",
+    "chunkName": "pages/TypeAnalyze/_id/index",
+    "_name": "_3c6523c8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/alexandra/Документы/oplab-shop-github/shop-oplab/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_265c2aee"
+  }
+]

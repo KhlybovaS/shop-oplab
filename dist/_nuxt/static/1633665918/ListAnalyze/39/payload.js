@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/39", {data:[{post:{Id:39,Code:"1025",Name:"Д-Димер",FullName:"Определение Д-димера",Folder:"Гемостаз",Tests:["aa15efe1-9220-11e3-a861-14dae9ee2078"],Cost:250,FolderId:6,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

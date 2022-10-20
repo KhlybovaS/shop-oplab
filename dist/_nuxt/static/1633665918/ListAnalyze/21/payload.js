@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/21", {data:[{post:{Id:21,Code:"50851",Name:"ПЦР Гепатит А",FullName:"Определение РНК вируса гепатита A (Hepatitis A virus) методом ПЦР в фекалиях",Folder:"ЛСД",Cost:200,FolderId:1,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

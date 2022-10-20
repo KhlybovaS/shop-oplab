@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/56", (function(a){return {data:[{post:{Id:56,Code:"26",Name:a,FullName:a,Folder:"Гемостаз",Tests:["65b1b41f-1c23-11e2-9b92-14dae9ee2078","6bff6f80-12d6-11e8-bdbc-f079596796eb"],Cost:350,FolderId:10,Organ:"Орган",OrganId:2,IsPopular:true}}],fetch:{},mutations:[]}}("Время свертывания")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/11", (function(a,b){return {data:[{post:{Id:11,Code:"3097",Name:a,FullName:a,Folder:"ЛСД",isCovid:false,Tests:["4756c0a3-6b23-11e5-82c6-74d02b94c743"],Cost:150,FolderId:b,Organ:"Кишечник",OrganId:b}}],fetch:{},mutations:[]}}("А\u002Fт к а\u002Fг энтеровирусов 68-71 типов",1)));

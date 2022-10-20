@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/OrganAnalyze/5", {data:[{post:{Id:64,Code:"3017",Name:"Сифилис РПГА",FullName:"Определение антител к бледной трепонеме (Treponemap allidum) в реакции пассивной гемагглютинации (РП",Folder:"Инфекции",Tests:["0568adff-94ae-11de-9c53-000e0c3eff07"],Cost:400,FolderId:11,Organ:"Орган2",OrganId:5}}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/20", {data:[{post:{Id:20,Code:"50201",Name:"ПЦР Вирус Зостера Кровь",FullName:"Определение ДНК вируса ветряной оспы и опоясывающего лишая (Varicella-Zoster virus) в крови методом ",Folder:"ЛСД",Cost:200,FolderId:1,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

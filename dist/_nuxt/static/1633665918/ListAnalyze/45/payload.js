@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/45", {data:[{post:{Id:45,Code:"1170",Name:"ЛЖСС",FullName:"Исследование латентной железосвязывающей способности сыворотки",Folder:"Биохимия",Tests:["0568ad0c-94ae-11de-9c53-000e0c3eff07"],Cost:300,FolderId:7,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

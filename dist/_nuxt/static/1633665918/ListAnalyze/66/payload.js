@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/66", {data:[{post:{Id:66,Code:"3027",Name:"Аскаридоз IgG",FullName:"Аскаридоз- IgG",Folder:"Инфекции",Tests:["0568ae17-94ae-11de-9c53-000e0c3eff07"],Cost:400,FolderId:11,Organ:"Орган2",OrganId:5}}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/69", {data:[{post:{Id:69,Code:"3033",Name:"Токсокароз IgG",FullName:"Определение антител IgG к Toxocara canis",Folder:"Инфекции",Tests:["0568ae11-94ae-11de-9c53-000e0c3eff07"],Cost:400,FolderId:11,Organ:"Орган2",OrganId:5}}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/54", (function(a){return {data:[{post:{Id:54,Code:"1019",Name:a,FullName:a,Folder:"Гемостаз",Cost:350,FolderId:10,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]}}("Волчаночный аникоагулянт (подтверждающий)")));

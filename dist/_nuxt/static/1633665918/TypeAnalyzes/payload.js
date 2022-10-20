@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/TypeAnalyzes", {data:[{}],fetch:{},mutations:[]});

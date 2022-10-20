@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/8", {data:[{post:{Id:8,Code:"3119",Name:"ВКЭ-Ag ликвор",FullName:"Определение антигена вируса клещевого энцефалита ликворе (ВКЭ-Ag)",Folder:"ЛСД",isCovid:false,Cost:100,FolderId:1,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

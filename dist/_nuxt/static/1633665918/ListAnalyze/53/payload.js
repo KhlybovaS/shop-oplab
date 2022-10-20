@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/53", {data:[{post:{Id:53,Code:"1001",Name:"АЧТВ",FullName:"Определение протромбинового (тромбопластинового) времени в крови или в плазме (АЧТВ)",Folder:"Гемостаз",Tests:["0568ad42-94ae-11de-9c53-000e0c3eff07"],Cost:350,FolderId:10,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]});

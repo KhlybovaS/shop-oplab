@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/58", (function(a){return {data:[{post:{Id:58,Code:"1023",Name:a,FullName:a,Folder:"Гемостаз",Tests:["0568ad52-94ae-11de-9c53-000e0c3eff07"],Cost:350,FolderId:10,Organ:"Орган",OrganId:2,IsPopular:true}}],fetch:{},mutations:[]}}("Тромбиновое время")));

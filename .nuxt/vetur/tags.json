@@ -1,0 +1,20 @@
+{
+  "BackToTop": {
+    "description": "Auto imported from components/BackToTop.vue"
+  },
+  "Cards": {
+    "description": "Auto imported from components/Cards.vue"
+  },
+  "MainContent": {
+    "description": "Auto imported from components/MainContent.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Search": {
+    "description": "Auto imported from components/Search.vue"
+  },
+  "TheFooter": {
+    "description": "Auto imported from components/TheFooter.vue"
+  }
+}

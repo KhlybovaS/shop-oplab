@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/12", (function(a,b){return {data:[{post:{Id:12,Code:"1404",Name:a,FullName:a,Folder:"ЛСД",isCovid:false,Tests:["614084ec-b598-11e4-9471-74d02b94c743","a1ce0ee9-c79d-11e4-9471-74d02b94c743"],Cost:150,FolderId:b,Organ:"Кишечник",OrganId:b}}],fetch:{},mutations:[]}}("Кал на  яйца гельминтов и простейшие",1)));

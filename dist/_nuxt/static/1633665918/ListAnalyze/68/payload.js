@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/68", (function(a){return {data:[{post:{Id:68,Code:"3037",Name:a,FullName:a,Folder:"Инфекции",Tests:["0568ae0d-94ae-11de-9c53-000e0c3eff07"],Cost:400,FolderId:11,Organ:"Кишечник",OrganId:1}}],fetch:{},mutations:[]}}("Описторхоз IgG")));

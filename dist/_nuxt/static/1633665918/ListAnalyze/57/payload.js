@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/57", (function(a){return {data:[{post:{Id:57,Code:"51",Name:a,FullName:a,Folder:"Гемостаз",Tests:["65b1b420-1c23-11e2-9b92-14dae9ee2078"],Cost:350,FolderId:10,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]}}("Дк (длит.кровотечения)")));

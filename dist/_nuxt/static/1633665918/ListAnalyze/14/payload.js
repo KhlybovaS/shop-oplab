@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/14", (function(a){return {data:[{post:{Id:14,Code:"1405",Name:"Кал на скрытую кровь- иммунохимический метод",FullName:"Определение концентрации гемоглобина в стуле (иммунохимический метод)",Folder:"ЛСД",isCovid:false,Tests:["512ee9f0-89a3-11e8-854c-1831bf2aea87"],Cost:150,FolderId:a,Organ:"Кишечник",OrganId:a}}],fetch:{},mutations:[]}}(1)));

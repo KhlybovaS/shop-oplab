@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/6", (function(a){return {data:[{post:{Id:6,Code:"3054",Name:"SARS-CoV-2 IgG",FullName:"Определение антител класса G к антигенам  SARS-CoV-2",Folder:"Ковид",isCovid:a,Cost:100,FolderId:3,Organ:"Орган",OrganId:2,IsPopular:a}}],fetch:{},mutations:[]}}(true)));

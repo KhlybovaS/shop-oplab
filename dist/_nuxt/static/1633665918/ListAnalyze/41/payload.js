@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ListAnalyze/41", (function(a){return {data:[{post:{Id:41,Code:"3098",Name:a,FullName:a,Folder:"Инфекции",Tests:["57286d37-91b3-11e5-9ecb-74d02b94c743"],Cost:300,FolderId:6,Organ:"Орган",OrganId:2}}],fetch:{},mutations:[]}}("Трихинеллез- IgG")));
